@@ -1,0 +1,12 @@
+div.nav-tab {
+  border-style: solid;
+  background-color: #ccffff;
+}
+.navigation a {
+  text-decoration: none;
+  color:   #b30047;
+
+}
+div.nav-tab:hover {
+  background-color:  #4d4000;
+}
